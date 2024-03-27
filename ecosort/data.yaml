@@ -1,0 +1,18 @@
+names:
+- General
+- Glass
+- Metal
+- Paper
+- Plastic
+- Styrofoam
+- Vinyl
+nc: 7
+roboflow:
+  license: MIT
+  project: -ix50o
+  url: https://universe.roboflow.com/detection-6zqm5/-ix50o/dataset/3
+  version: 4
+  workspace: detection-6zqm5
+test: "test/images"
+train: "train/images"
+val: "valid/images"
