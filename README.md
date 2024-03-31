@@ -1,5 +1,15 @@
 ![001](https://github.com/DS-21-DL-Project/Trash-classification/assets/83691399/e55d08c5-d7c2-40f6-9eb1-17f23f966679)
 
+<h3 align="center" dir="auto"><a id="user-content--tech-stack-" class="anchor" aria-hidden="true" tabindex="-1" href="#-tech-stack-"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a>📚 Tech Stack 📚</h3>
+
+
+
+<p align="center">Language
+<p align="center"><img src="https://img.shields.io/badge/python-3776AB?style=flat-square&logo=python&logoColor=white"/><img src="https://img.shields.io/badge/jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white"/>
+
+<p align="center">Library
+<p align="center"><img src="https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white"/><img src="https://img.shields.io/badge/numpy-013243?style=flat-square&logo=numpy&logoColor=white"/><img alt="Static Badge" src="https://img.shields.io/badge/seaborn%20-%20%23674BBB"><img alt="Static Badge" src="https://img.shields.io/badge/matplotlib%20-%20%233483A0">
+<p align="center"><img src="https://img.shields.io/badge/scikit_learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white"/><img src="https://img.shields.io/badge/plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white"/>
 
 ---
 ## Introduction
