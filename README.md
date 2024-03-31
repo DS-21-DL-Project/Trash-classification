@@ -8,7 +8,7 @@
 ### 이 프로젝트는 ...
 #### &nbsp;&nbsp;&nbsp; Yolo의 고도의 정확성과 신속성을 활용해 생활 폐기물을 식별하고 분류함으로써 </br> 
 #### &nbsp;&nbsp;&nbsp; 재활용 가능한 자원을 효율적으로 회수하고 환경 오염을 줄이는 데 기여하고자 합니다. </br>
-#### &nbsp;&nbsp;&nbsp; 이를 통해 지구 환경을 보호하고 지속 가능한 발전을 이끌어내는 사회적 가치를 창출하고자 합니다. </br></br></br>
+#### &nbsp;&nbsp;&nbsp; 이를 통해 지구 환경을 보호하고 지속 가능한 발전을 이끌어내는 사회적 가치를 창출하고자 합니다. </br></br>
 
 ---
 
@@ -34,7 +34,7 @@
 - 제주에서는 가정의 올바른 생활 폐기물 분리 배출로 재활용되는 자원의 양을 높이기 위해 클린 하우스를 운영 중이지만 </br> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;분리 배출 전 폐기물 분류 기준에 대해 모호한 경우 발생
 - 생활 폐기물 발생량은 연도별 증가하고 있으며, 전국 평균 발생량 또한 증가 추세
 - 분리 수거 오분류로 인한 경제적 손실은 2018년 한국환경공단 추정 약 4,000억 원에서 2022년 환경부 추정 약 8,000억원까지 증가
-- 이에 분리 배출의 정확도 향상을 위해 생활 폐기물 데이터를 수집 및 분석해 객체를 탐지 및 분류시켜 </br> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;가정의 분리 배출에 대한 기준 확립을 도와 지구 환경을 보호하고 지속 가능한 발전에 기여하고자 함
+- 이에 분리 배출의 정확도 향상을 위해 생활 폐기물 데이터를 수집 및 분석해 객체를 탐지 및 분류시켜 </br> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;가정의 분리 배출에 대한 기준 확립을 도와 지구 환경을 보호하고 지속 가능한 발전에 기여하고자 함 </br></br>
 
 
 ### 프로젝트 개요
@@ -43,10 +43,10 @@
 3. 수행 기간: 1개월 (2024.3.04 \~ 4.03)
 4. 목표: YOLO를 활용한 생활 폐기물 데이터 "객체 탐지 및 분류" 
 
-<h3 dir="auto"><a id="user-content--tech-stack-" class="anchor" aria-hidden="true" tabindex="-1" href="#-tech-stack-"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a> Tech Stack </h3>
+<h3 dir="auto"><a id="user-content--tech-stack-" class="anchor" aria-hidden="true" tabindex="-1" href="#-tech-stack-"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a> Tech Stack </h5>
 
-Language & Library  <p align="justify"><img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"/> &nbsp; <img src="https://img.shields.io/badge/ultralytics-150458?style=for-the-badge&logo=ultralytics&logoColor=white"/> &nbsp; <img src="https://img.shields.io/badge/pytorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/> </br>
-Other <p align="justify"><img src="https://img.shields.io/badge/Roboflow-A100FF?style=for-the-badge&logo=roboflow&logoColor=white"> &nbsp; <img src="https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252"/> &nbsp; <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white"/> &nbsp; <img src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white"/>
+&nbsp; &nbsp; Language & Library <p align="justify">&nbsp; &nbsp; &nbsp;<img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"/> &nbsp; <img src="https://img.shields.io/badge/ultralytics-150458?style=for-the-badge&logo=ultralytics&logoColor=white"/> &nbsp; <img src="https://img.shields.io/badge/pytorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/> </br>
+&nbsp; &nbsp; Other <p align="justify">&nbsp; &nbsp; &nbsp;<img src="https://img.shields.io/badge/Roboflow-A100FF?style=for-the-badge&logo=roboflow&logoColor=white"> &nbsp; <img src="https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252"/> &nbsp; <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white"/> &nbsp; <img src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white"/>
 
 ---
 
