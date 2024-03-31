@@ -81,7 +81,8 @@
 
 ✅ **라벨링 작업_Roboflow**
 
-![image](https://github.com/DS-21-DL-Project/Trash-classification/assets/83691399/aed7afd6-a3f8-4637-8c10-2daa23d7bfd6)
+![image](https://github.com/DS-21-DL-Project/Trash-classification/assets/83691399/586e8499-e37e-479d-81d7-54c8695861c2)
+
 
 
 - **Roboflow:** 데이터 셋 생성 및 전처리 작업, 증강 작업
