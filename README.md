@@ -64,8 +64,9 @@
 ### 직접 수집 데이터
 ![003](https://github.com/DS-21-DL-Project/Trash-classification/assets/83691399/564e2e5e-b3c4-4e06-b5da-90f669b2323f)
 
-- 비닐류
 - 스티로폼
+- 복합 쓰레기
+- 배경
 - 고철류(한국 버전)
 - 플라스틱(라벨 없는)
 
