@@ -480,10 +480,3 @@ MAE 값은 위 모델 보다는 떨어지지만 예측 성능은 이 쪽이 더 
 ### 향후 과제
 - 현재는 229화까지의 데이터 셋을 사용하여 진행하였지만 몇 년 뒤에 유퀴즈 프로그램이 남아있다면 더 많은 데이터를 사용하여 더 좋은 모델을 만들 수 있지 않았을까 싶습니다.
 - 하이퍼파라메터를 다루는 방법에 대해 미숙했습니다. 아직 하이퍼파라메터의 기능이 무엇인지를 정확이 인지하지 못해 모든 경우를 돌려야 하는 점이 최적의 값을 찾는 데 오랜 시간을 걸리게 하였고 일부 모델에서는 몇몇 조건을 제외하여 진행하였습니다.
-
----
-## 6. 참고 문헌
-- [나무위키 - 1](https://namu.wiki/w/%EC%9C%A0%20%ED%80%B4%EC%A6%88%20%EC%98%A8%20%EB%8D%94%20%EB%B8%94%EB%9F%AD/%EB%B6%80%EC%A0%9C%20%EB%B0%8F%20%EC%8B%9C%EC%B2%AD%EB%A5%A0)
-- [나무위키 - 2](https://namu.wiki/w/%EC%9C%A0%20%ED%80%B4%EC%A6%88%20%EC%98%A8%20%EB%8D%94%20%EB%B8%94%EB%9F%AD/%EC%83%81%EA%B8%88%20%EC%88%98%EB%A0%B9%EC%9E%90)
-- [유튜브 api v3](https://console.cloud.google.com/apis/library/youtube.googleapis.com?hl=ko&project=braided-city-312905)
-- [캐글](https://ko.wikipedia.org/wiki/%EB%8B%B9%EB%87%A8%EB%B3%91](https://www.kaggle.com/code/serigne/stacked-regressions-top-4-on-leaderboard)https://www.kaggle.com/code/serigne/stacked-regressions-top-4-on-leaderboard)
