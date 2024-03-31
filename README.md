@@ -56,18 +56,18 @@
 ![002](https://github.com/DS-21-DL-Project/Trash-classification/assets/83691399/d301fc49-6189-4c4f-ac40-e7b33971d3f3)
  
 - 일반쓰레기
-- 종이
 - 플라스틱
+- 종이
 - 고철
-- 비닐
+- 유리
   
 ### 직접 수집 데이터
 ![003](https://github.com/DS-21-DL-Project/Trash-classification/assets/83691399/564e2e5e-b3c4-4e06-b5da-90f669b2323f)
 
--
--
--
--
+- 비닐류
+- 스티로폼
+- 고철류(한국 버전)
+- 플라스틱(라벨 없는)
 
 ---
 ## 3. 데이터 분석 & 시각화
