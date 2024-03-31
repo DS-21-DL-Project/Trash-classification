@@ -6,7 +6,7 @@
 <p align="center">Language
 <p align="center"><img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 <p align="center">Library
-<p align="center"><img src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=ultralytics&logoColor=white"/>
+<p align="center"><img src="https://img.shields.io/badge/ultraytics-150458?style=for-the-badge&logo=ultralytics&logoColor=white"/>
 <p align="center">Other
 <p align="center"><img src="https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252"/><img src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white"/><img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white"/>
 
