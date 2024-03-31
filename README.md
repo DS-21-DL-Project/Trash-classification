@@ -80,7 +80,7 @@
 
 ✅ **라벨링 작업_Roboflow**
 
-![스크린샷 2024-03-31 120914](https://github.com/DS-21-DL-Project/Trash-classification/assets/156426539/3f8bf142-580a-468d-9ad0-bbf251327b09)
+<img src="https://github.com/DS-21-DL-Project/Trash-classification/assets/156426539/3f8bf142-580a-468d-9ad0-bbf251327b09 width="200 height="400"/>
 
 - **Youtube API 컬럼 전체 분포:** 조회수에서 상대적으로 특정 데이터가 다른 데이터에 비해 훨씬 높은 조회수를 가지고 있습니다.
 - **성별에 따른 조회수 분포:** 남성과 여성 간에는 조회수 분포에서 큰 차이가 나타나지 않았으며, 두 그룹 간에는 유사한 조회수를 가진 데이터가 많은 것으로 보입니다.
