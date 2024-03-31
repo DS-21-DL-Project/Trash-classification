@@ -8,11 +8,9 @@
 <p align="center"><img src="https://img.shields.io/badge/python-3776AB?style=flat-square&logo=python&logoColor=white"/>
 
 <p align="center">Library
-<p align="center"><img src="https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white"/><img src="https://img.shields.io/badge/numpy-013243?style=flat-square&logo=numpy&logoColor=white"/><img alt="Static Badge" src="https://img.shields.io/badge/seaborn%20-%20%23674BBB"><img alt="Static Badge" src="https://img.shields.io/badge/matplotlib%20-%20%233483A0">
-<p align="center"><img src="https://img.shields.io/badge/scikit_learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white"/><img src="https://img.shields.io/badge/plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white"/>
-
-<p align="center">Library
-<p align="center"><img src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white"/>
+<p align="center"><img src="https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
+<p align="center">Other
+<p align="center"><img src="https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252"/><img src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white"/>
 
 ---
 ## Introduction
