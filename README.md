@@ -204,9 +204,9 @@ yolo 모델의 성능을 평가 할때 가장 중요한 지표는 mAP 50과 mAP 
 이전까지의 모델에서는 일반쓰레기에 대한 정확도가 50~60사이에 머물러 있엇는데 비해 최종 모델에서는 정확도가 많이 올라간것을 확인할수 있었습니다
 
 ### 데모 영상 1
-[![Video Label](http://img.youtube.com/vi/shorts/9rdbIPDRP-0/0.jpg)](https://youtu.be/shorts/9rdbIPDRP-0)
+[![Video Label](http://img.youtube.com/vi/9rdbIPDRP-0/0.jpg)](https://youtu.be/9rdbIPDRP-0)
 
-[![Video Label](http://img.youtube.com/vi/shorts/JA3J8qMjWiY/0.jpg)](https://youtu.be/shorts/JA3J8qMjWiY)
+[![Video Label](http://img.youtube.com/vi/JA3J8qMjWiY/0.jpg)](https://youtu.be/JA3J8qMjWiY)
 
 Roboflow에서 제공해주는 모델을 스마트폰에서 실행하여 테스트해 보았습니다.
 
