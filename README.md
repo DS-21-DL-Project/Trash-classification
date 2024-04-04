@@ -99,7 +99,8 @@
 
 모델링 절차에 대한 설명은 아래 그림과 같은 순서 대로 설명해 드리도록 하겠습니다.
 
-![제목을 입력해주세요_-005 (1)](https://github.com/DS-21-DL-project/youquiz/assets/83691399/bc218c68-9a6a-4ec1-944e-ea524c58b0a5)
+![EcoSort Helper 프로젝트 _ 최종수정본_복사본-011](https://github.com/DS-21-DL-Project/Trash-classification/assets/83691399/85fc34fc-5f33-4b5c-845e-60f277cbfccb)
+
 
 </br></br>
 #### 1차 시도
