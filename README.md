@@ -85,13 +85,11 @@
 - 스티로폼
 - 일반쓰레기
 
-</br></br>
+</br>
 
 ✅ **라벨링 작업_Roboflow**
 
 ![image](https://github.com/DS-21-DL-Project/Trash-classification/assets/83691399/586e8499-e37e-479d-81d7-54c8695861c2)
-
-
 
 - 데이터 셋 생성 및 전처리 작업, 증강 작업
 
@@ -127,7 +125,7 @@
 
 </br></br>
 
-4차 시도가 분기점인 이유
+#### 4차 시도가 분기점인 이유
 ![014](https://github.com/DS-21-DL-Project/Trash-classification/assets/83691399/241ccaa3-ba67-4fec-bc67-57d659e887f6)
 
 - 추가 데이터들 대부분이 복합 쓰레기(한 화면에 수많은 객체 존재)
@@ -137,7 +135,7 @@
   => 많은 데이터 학습시키지 않는 이상 모델 정확도 떨어짐
 - 보완 : 한 화면에 최대 10개 객체 존재한 복합 쓰레기로만 학습  
 
-</br></br><</br></br>
+</br></br></br></br>
 
 ### 11차 시도
 
@@ -148,9 +146,8 @@
 
 </br></br>
 
-11차 시도 특이 사항
+#### 11차 시도 특이 사항
 ![016](https://github.com/DS-21-DL-Project/Trash-classification/assets/83691399/a048c220-478d-4487-aaf2-d4acea87b954)
-
 
 문제점
 - 1 : 배경 데이터 생활 폐기물 객체로 인식
@@ -185,11 +182,15 @@
 
 - YOLO 모델 성능 평가 시 가장 중요한 지표인 mAP 50과 mAP 50-90 모두 최종 모델로 갈수록 개선
 
+</br>
+
 ### Precision(정밀도), Recall(재현율)
 
 ![020](https://github.com/DS-21-DL-Project/Trash-classification/assets/83691399/854a8d5c-b725-4706-bb7c-cdda086ed5f9)
 
 - 정밀도와 재현율에 대해서도 마찬가지로 최종 모델로 갈수록 성능 개선
+
+</br>
 
 ### 정확도
 
@@ -197,7 +198,7 @@
 
 - 이전 모델까지의 일반 쓰레기 데이터 정확도(5~60%)에 비해 최종 모델에서 정확도 향상
 
-</br></br>
+</br>
 
 ### 데모 영상 1
 [![Video Label](http://img.youtube.com/vi/9rdbIPDRP-0/0.jpg)](https://youtu.be/9rdbIPDRP-0)
