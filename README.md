@@ -20,7 +20,7 @@
   * [수집 과정](#수집-과정)
   * [kaggle 데이터](#kaggle-데이터)
   * [직접 수집 데이터](#직접-수집-데이터)
-- [3. 데이터 전처리리](#3-데이터-전처리)
+- [3. 데이터 전처리](#3-데이터-전처리)
 - [4. 모델링](#4-모델링)
   * [모델링 절차](#모델링-절차)
   * [1차 시도](#1차-시도)
@@ -125,7 +125,7 @@
 
 </br></br>
 
-#### 4차 시도가 분기점인 이유
+### 4차 시도가 분기점인 이유
 ![014](https://github.com/DS-21-DL-Project/Trash-classification/assets/83691399/241ccaa3-ba67-4fec-bc67-57d659e887f6)
 
 - 추가 데이터들 대부분이 복합 쓰레기(한 화면에 수많은 객체 존재)
@@ -146,7 +146,7 @@
 
 </br></br>
 
-#### 11차 시도 특이 사항
+### 11차 시도 특이 사항
 ![016](https://github.com/DS-21-DL-Project/Trash-classification/assets/83691399/a048c220-478d-4487-aaf2-d4acea87b954)
 
 문제점
@@ -211,7 +211,6 @@ Roboflow에서 제공해주는 모델을 스마트폰에서 실행하여 테스�
 
 [![Video Label](http://img.youtube.com/vi/CVucEqj2OW4/0.jpg)](https://youtu.be/CVucEqj2OW4)
 
-배경 데이터를 추가하기 전 인 11차 시도와 최종 모델의 차이 비교
 
 </br></br>
 
